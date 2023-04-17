@@ -7,14 +7,3 @@ Hello lis moi
 + deuxieme item
 - troisieme item
 * 4 item
-
-
-```
-Citqtion
-Blq Blo BLOP
-```
-
-je fais une modification
-
-change
-
