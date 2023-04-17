@@ -1,8 +1,8 @@
-#**This is my first title**
+# **This is my first title**
 
 Hello lis moi
 
-##*Mon premier titre FR*
+## *Mon premier titre FR*
 + premier item
 + deuxieme item
 - troisieme item
